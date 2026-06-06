@@ -7,3 +7,12 @@ Thumbs.db
 
 # Ignore XAMPP log files if accidentally dragged in
 *.log
+
+# Environment and system files
+.env
+.DS_Store
+pycache/
+*.pyc
+
+# Node modules (if any)
+node_modules/
