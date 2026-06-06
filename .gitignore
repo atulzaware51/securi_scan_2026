@@ -1,0 +1,9 @@
+# Ignore sensitive database credentials
+backend/config.php
+
+# Ignore OS system files
+.DS_Store
+Thumbs.db
+
+# Ignore XAMPP log files if accidentally dragged in
+*.log
